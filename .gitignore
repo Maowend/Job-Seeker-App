@@ -1,0 +1,22 @@
+# Compiled output
+*.class
+out/
+bin/
+build/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
